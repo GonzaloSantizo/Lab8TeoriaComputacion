@@ -12,7 +12,7 @@ def my_function(n):
 start_time = time.time()
 
 # Call the function with a value of n
-n_value = 10000  # Replace with your desired value of n
+n_value = 10  # Replace with your desired value of n
 my_function(n_value)
 # Línea de finalización de la medición del tiempo
 end_time = time.time()
